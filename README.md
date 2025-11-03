@@ -70,7 +70,7 @@ All screenshots of the project setup are available inside the `/Screenshots/` fo
 
 ---
 
-## 🙋‍♀️ Developed By  Harika  
+## 🙋‍♀️ Developed By  Renuka
 
 
 
