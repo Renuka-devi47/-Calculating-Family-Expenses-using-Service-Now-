@@ -1,20 +1,18 @@
 # Family-Expenses-Calculator
-“Calculating Family Expenses using ServiceNow” is a low-code/no-code application that helps users manage and track family spending. Built entirely on the ServiceNow platform, this system allows families to record daily expenses, categorize them.
-
+The project “Calculating Family Expenses using ServiceNow” aims to develop a smart and automated expense management system to help families efficiently monitor and control their monthly financial activities. The system is built using ServiceNow, a cloud-based platform that provides workflow automation and data management capabilities.
 
 # 🏡 Calculating Family Expenses using ServiceNow
 
-This project is a Family Expense Tracking system built entirely within **ServiceNow**. It helps families manage and track daily expenses, compare them against monthly budgets, and visualize categorized spending. Built using tables, references, and business logic — this is a low-code/no-code ServiceNow solution.
-
+In today’s fast-paced world, managing household expenses has become a crucial aspect of maintaining financial stability. Families often struggle to keep track of their daily, monthly, and yearly expenditures, leading to financial stress and poor budgeting. To overcome these challenges, digital solutions that automate expense tracking and provide clear financial insights are becoming increasingly important.
 ---
 
 ## 🎯 Project Objectives
 
-- Track daily expenses for each family
-- Categorize expenses: Food, Rent, Utilities, Education, Misc
-- Set monthly budgets for each family
-- Automatically warn if spending exceeds budget
-- Display real-time expense data linked to families
+->To automate the calculation of family expenses
+->To provide an easy-to-use interface for expense entry
+->To compare total expenses with monthly income or budget
+-> To categorize and analyze expenses effectively
+->To generate reports and visual dashboards
 
 ---
 
